@@ -62,23 +62,23 @@ h1, h2, h3, h4, p {
     background-size: cover;
 }
 
-#gift-img-happy:hover {
+#gift-img-happy {
     background-image: url("images/happy.gif");
 }
 
-#gift-img-hot:hover {
+#gift-img-hot {
     background-image: url("images/hot.gif");
 }
 
-#gift-img-genius:hover {
+#gift-img-genius {
     background-image: url("images/genius.gif");
 }
 
-#gift-img-badass:hover {
+#gift-img-badass {
     background-image: url("images/badass.gif");
 }
 
-#gift-img-cheers:hover {
+#gift-img-cheers {
     background-image: url("images/cheers.gif");
 }
 
